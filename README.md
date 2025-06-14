@@ -2,10 +2,6 @@
 
 > A comprehensive data analysis project examining the relationship between social media usage patterns and academic performance among students.
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow)](YOUR_POWERBI_LINK)
-[![Data Analysis](https://img.shields.io/badge/Analysis-Complete-green)]()
-[![License](https://img.shields.io/badge/License-MIT-blue)]()
-
 ## 🔍 Project Overview
 
 This project analyzes social media usage patterns and addiction levels among **705 students** to understand the impact on academic performance and mental health. The study reveals critical insights about digital wellness in educational environments.
@@ -88,7 +84,6 @@ Dataset includes:
 
 ## 🔗 Interactive Dashboard
 
-**[📊 View Live Power BI Dashboard](YOUR_POWERBI_LINK)**
 
 The dashboard includes:
 - **Overview Page**: Key metrics and summary statistics
@@ -100,18 +95,8 @@ The dashboard includes:
 
 ## 📸 Dashboard Screenshots
 
-### Main Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![image](https://github.com/user-attachments/assets/e70b504c-009e-48af-a89e-baa5cc1b94bf)
 
-### Demographic Analysis
-![Demographic Breakdown](images/demographic_analysis.png)
-
-### Impact Assessment
-![Impact Analysis](images/impact_assessment.png)
-
-*Note: Add actual screenshots of your dashboard to the /images folder*
-
-## 🚨 Key Insights & Implications
 
 ### For Educational Institutions
 - **64% of students** experience academic decline due to social media
@@ -155,22 +140,6 @@ The dashboard includes:
 - Web browser for dashboard access
 - Internet connection for live data
 
-### Installation
-1. Clone this repository
-```bash
-git clone https://github.com/yourusername/social-media-addiction-study
-```
-
-2. Open the Power BI file
-```bash
-# Open SocialMediaAddiction.pbix in Power BI Desktop
-```
-
-3. Refresh data connections (if needed)
-
-4. Explore the interactive visualizations
-
-## 📁 Repository Structure
 
 ```
 social-media-addiction-study/
@@ -214,9 +183,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 **Author**: [Your Name]
-- **Email**: [your.email@domain.com]
+- **Email**: [amittiwari2122@gmail.com]
 - **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [@yourusername]
+
 
 **Project Link**: [https://github.com/yourusername/social-media-addiction-study](https://github.com/yourusername/social-media-addiction-study)
 
@@ -246,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **If this project helped you, please consider giving it a star!**
 
-📊 **[View Interactive Dashboard](YOUR_POWERBI_LINK)** | 📧 **[Contact for Collaboration](mailto:your.email@domain.com)**
+![image](https://github.com/user-attachments/assets/7ab16232-4b6d-497b-be68-b59b0a1a725a)
 
 ---
 
